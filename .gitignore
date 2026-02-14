@@ -1,0 +1,12 @@
+build/
+out/
+.vs/
+*.user
+*.suo
+*.pdb
+*.obj
+*.ilk
+*.log
+
+scripts/ScriptRuntime/bin/
+scripts/ScriptRuntime/obj/
