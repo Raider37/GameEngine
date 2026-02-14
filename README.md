@@ -1,4 +1,4 @@
-# RaiderEngine (CryEngine-like prototype)
+# RaiderEngine 
 
 This repository contains a game-engine prototype with:
 
